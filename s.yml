@@ -1,0 +1,4 @@
+start_game: !!python/tuple
+- 1
+- 2
+- 3
